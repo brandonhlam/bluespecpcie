@@ -2,7 +2,7 @@ set_param general.maxThreads 8
 
 set boardname kc705
 
-set pciedir ../../../
+set pciedir ../bluespecpcie
 
 if { $::argc > 0 } {
 	set pciedir [lindex $argv 0]

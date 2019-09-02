@@ -12,6 +12,7 @@ VFILES="
 	FIFO2.v
 	ResetInverter.v
 	SyncFIFO.v
+	SyncFIFO1.v
 	ClockDiv.v
 	ResetEither.v
 	MakeReset.v
